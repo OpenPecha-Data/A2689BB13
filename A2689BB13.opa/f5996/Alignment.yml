@@ -1,0 +1,23 @@
+segment_sources:
+  I3BBBDFAA:
+    type: origin_type
+    relation: translation
+    language: zh
+  I0F4C7AAF:
+    type: origin_type
+    relation: translation
+    language: zh
+  IBF133C34:
+    type: origin_type
+    relation: translation
+    language: bo
+  ID98F2766:
+    type: origin_type
+    relation: translation
+    language: sa
+segment_pairs:
+  8369456d15c9477cb67b50329bff7b24:
+    I3BBBDFAA: 57a90614295f4e52a1b53cfa9092f8c4
+    I0F4C7AAF: 7928b1005d0d4007b1dc7311809a0ec6
+    IBF133C34: eec8b4b85efe4eaaa0a061837cb5eae4
+    ID98F2766: b5b3a43213394f7b9c6e0cf656ad632f
